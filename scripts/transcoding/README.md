@@ -2,6 +2,14 @@
 
 Change directory to the folder which contains tc.sh
 
+Make sure the script is executable
+
+```
+chmod +x tc.sh
+```
+
+Type the command with a target folder path
+
 ```
 ./tc.sh <target folder>
 ```
